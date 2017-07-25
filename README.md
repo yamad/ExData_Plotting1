@@ -10,6 +10,7 @@ Science Exploratory Data Analysis course.
   * Only base R graphics commands are used.
   * Only data from the dates 2007-02-01 and 2007-02-02.
 
+
 ## Plots
 
 The constructed plots are displayed below:
